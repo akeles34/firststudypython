@@ -1,0 +1,6 @@
+print('2+5')
+print(5*5)
+print(2+5)
+print('Adem')
+print('adem'+'baba')
+print('Adem '+'Baba '+'ve '+'Nene '+'Hatun')
