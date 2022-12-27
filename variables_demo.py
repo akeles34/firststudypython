@@ -16,7 +16,7 @@ print('Öğrencinin Sınıfı: '+ ogrenciSinifi)
 
 
 
-urun1 = 50 
+urun1 = 67
 urun2 = 48
 urun3 = 123
 toplam = urun1 + urun2 + urun3
